@@ -1,0 +1,12 @@
+
+@media all and (max-width: 576px) {.slider-responsive {height: 250px; object-fit: cover;}
+.centrar {text-align:center}}
+
+.justify {text-align: justify;}
+
+.filtro {width: 100%; padding: 0;}
+
+.panes:hover {transition: 300ms; filter: opacity(50%);}
+
+.lista {padding: 4%;}
+
